@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c010b61-cbc9-45e5-b99e-1cf061b2cde9" name="Changes" comment="&quot;first commit&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/NextGenCommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NextGenCommerce/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NextGenCommerce/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NextGenCommerce/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NextGenCommerce/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NextGenCommerce/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NextGenCommerce/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NextGenCommerce/src/main/java/com/NextGenCommerce/NextGenCommerceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NextGenCommerce/src/main/java/com/NextGenCommerce/entity/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NextGenCommerce/src/main/java/com/NextGenCommerce/repository/CartItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NextGenCommerce/src/main/java/com/NextGenCommerce/tools/ShoppingCartMCPService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NextGenCommerce/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NextGenCommerce/src/test/java/com/NextGenCommerce/NextGenCommerceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rohitsharma2256&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rohitsharma2256/NextGenCommerce.git&quot;,
+    &quot;accountId&quot;: &quot;4b1d042a-3d99-40a9-a72a-101367e5d262&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3A40xhQ7haZgUK3DQITNRwZsh4n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.NextGenCommerceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;JAR Application.shopping-cart-server.jar.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.NextGenCommerce [clean,package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.NextGenCommerce [package].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JavaNotes Telusko/Projects/NextGenCommerce&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+      <command value="mvn clean package" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="shopping-cart-server.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/NextGenCommerce/target/shopping-cart-server.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.shopping-cart-server.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c010b61-cbc9-45e5-b99e-1cf061b2cde9" name="Changes" comment="" />
+      <created>1771836784056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771836784056</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Intial Commit" />
+    <MESSAGE value="&quot;first commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;first commit&quot;" />
+  </component>
+</project>
