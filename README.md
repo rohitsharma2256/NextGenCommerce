@@ -18,7 +18,7 @@ This project focuses on clean backend architecture, AI service integration, and 
 ✔ Maven project structure  
 ✔ Scalable Spring Boot configuration  
 
----
+--
 
 ## 🧠 Agentic AI Concept Used
 
